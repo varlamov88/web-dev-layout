@@ -1,0 +1,51 @@
+.icon {
+	display: inline-block;
+	&-head {
+		background-image: url(../images/sprite.png);
+		background-position: -132px 0px;
+		width: 57px;
+		height: 63px;
+	}
+	&-internet {
+		background-image: url(../images/sprite.png);
+		background-position: 0px -60px;
+		width: 62px;
+		height: 62px;
+	}
+	&-mail {
+		background-image: url(../images/sprite.png);
+		background-position: -70px -62px;
+		width: 62px;
+		height: 44px;
+	}
+	&-phone-call {
+		background-image: url(../images/sprite.png);
+		background-position: -70px 0px;
+		width: 62px;
+		height: 62px;
+	}
+	&-placeholder {
+		background-image: url(../images/sprite.png);
+		background-position: -112px -122px;
+		width: 44px;
+		height: 62px;
+	}
+	&-smartphone_hover {
+		background-image: url(../images/sprite.png);
+		background-position: 0px -122px;
+		width: 56px;
+		height: 62px;
+	}
+	&-smartphone {
+		background-image: url(../images/sprite.png);
+		background-position: -56px -122px;
+		width: 56px;
+		height: 62px;
+	}
+	&-transfer {
+		background-image: url(../images/sprite.png);
+		background-position: 0px 0px;
+		width: 70px;
+		height: 60px;
+	}
+}
